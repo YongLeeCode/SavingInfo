@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233966285049",
+    "project_id": "personalinfo-f760f",
+    "storage_bucket": "personalinfo-f760f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233966285049:android:7457a8c2f790817df4f228",
+        "android_client_info": {
+          "package_name": "com.yonglee.personalinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233966285049-n17lvqr7jvimh5p1n9mu249a5n4i8lat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yonglee.personalinfo",
+            "certificate_hash": "30d961704b2da3575c4a5a7e1468cd4f207bd217"
+          }
+        },
+        {
+          "client_id": "233966285049-ea1k125je98gcf8c25isu6clqgp1pblr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9fMErHOogYejkVc74A9nuaAp6XRnm5iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233966285049-ea1k125je98gcf8c25isu6clqgp1pblr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
